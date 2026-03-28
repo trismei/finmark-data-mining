@@ -16,7 +16,7 @@ FinMark currently offers standard financial products (savings, credit, loans) wi
 |-----------|-------------|--------|
 | Milestone 1 | Data Preparation & Exploratory Data Analysis (EDA) | ✅ Complete |
 | Milestone 2 | Clustering & Customer Segmentation (K-Means) | ✅ Complete |
-| Terminal Assessment | Final Report + Presentation + Product Recommendations | 🔄 In Progress |
+| Terminal Assessment | Final Report + Presentation + Product Recommendations | ✅ Complete |
 
 ---
 
